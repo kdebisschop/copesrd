@@ -14,7 +14,8 @@
         "drupal/paragraphs": "1.*",
         "drupal/pathauto": "1.*",
         "drupal/token": "1.*",
-        "drupal/bootstrap": "3.*"
+        "drupal/bootstrap": "3.*",
+        "drupal/basic": "1.*"
     },
     "replace": {
         "drupal/core": "~8.3"
